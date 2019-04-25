@@ -87,7 +87,5 @@ namespace RailWay
             }
             else MessageBox.Show("You have to choose a ticket");
         }
-
-
     }
 }
